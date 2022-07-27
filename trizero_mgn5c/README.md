@@ -1,3 +1,5 @@
+# This release has been recalled due to clearance problem against the idler attachment. A modified idler will be released later this week.
+
 This is a Tri-Zero mod to use MGN5C front Z rails instead of MGN7H, to avoid panel clearance issue.
 
 ![Install Photo](tri-zero%20mgn5c.jpg)
