@@ -1,6 +1,11 @@
-# This release has been recalled due to clearance problem against the idler attachment. A modified idler will be released later this week.
-
 This is a Tri-Zero mod to use MGN5C front Z rails instead of MGN7H, to avoid panel clearance issue.
+
+It also includes a GT2 16T version of the idler as an option for straightened belt line.
+Two M3x5x0.5 shims are required to sandwich the 16T idler to avoid binding. The F623 version doesn't need shims.
+
+The F623 version has the same hole location as the original Tri-Zero idler.
+It is difficult to relocate due to interference with tension adjustment screw.
+The belt line is off by 0.91mm but shouldn't introduce observable error in normal use.
 
 ![Install Photo](tri-zero%20mgn5c.jpg)
 

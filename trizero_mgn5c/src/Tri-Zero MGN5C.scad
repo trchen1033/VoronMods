@@ -82,6 +82,9 @@ module bed_attachment() {
                 [9.7, 24.6],
                 [0.5 - epsilon, 24.6],
             ]);
+
+            translate([-1.5, 0.5, 0])cube([2, 5.5+epsilon, 24.6]);
+            
             // Alignment
             translate([4, 5.5, 23.6])cube([3, 1 + epsilon, 1]);
         }
@@ -100,7 +103,6 @@ module bed_attachment() {
 
 module belt_attachment() {
     difference() {
-        //anslate([0.5, -1.5, 0])cube([10, 8, 24.6]);
         translate([0, 6.5, 0])rotate([90, 0, 0])linear_extrude(8)polygon([
             [0.5, 0],
             [9.7, 0],
